@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jannielynacha
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Java Web Development
 - 🌱 I’m currently learning React
 - 📫 How to reach me:
   email: acha.jannielyn@gmail.com
